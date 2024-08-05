@@ -1,5 +1,4 @@
-# About me
+# Hi, I'm Hari 👋
 
-- 🌱 I’m currently learning Machine Learning.
-- 📫 Reach me at hsoragaon@gmail.com
+Hey there! I'm Hari, a research analyst at Trilogy. 
 
